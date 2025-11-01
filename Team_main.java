@@ -1,6 +1,9 @@
+// Executor Class
 public class Team_main {
     public static void main(String[] args) {
+        // Create instance(Object)
         Team t1= new Team();
+        // ^ method to create the instance : class_name object=new constructor()
         t1.team_name="Digital Dynamos";
         t1.team_id=2723;
         t1.mem_name="Zeeshan";
