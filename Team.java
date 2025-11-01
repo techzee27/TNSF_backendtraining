@@ -3,6 +3,7 @@ Demonstration for the class Strcture
 
 Definition: Class is a blueprint of an object*/ 
 
+
 public class Team {
     // Variables
     String team_name;

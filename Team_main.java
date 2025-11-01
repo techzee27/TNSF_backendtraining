@@ -4,6 +4,7 @@ public class Team_main {
         // Create instance(Object)
         Team t1= new Team();
         // ^ method to create the instance : class_name object=new constructor()
+        // creating multiple instances
         t1.team_name="Digital Dynamos";
         t1.team_id=2723;
         t1.mem_name="Zeeshan";
@@ -17,5 +18,6 @@ public class Team_main {
         t2.team_role="Backend Developer";
         t2.coach();
     }    
+
     
 }
