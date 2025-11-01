@@ -38,8 +38,7 @@ The purpose of this repository is to:
 | Category | Tools/Technologies |
 |-----------|--------------------|
 | Programming Language | Java (JDK 17+) |
-| IDE | Eclipse / IntelliJ IDEA |
-| Build Tool | Maven / Gradle |
+| IDE | Eclipse / VS Code |
 | Frameworks | Spring Boot, Spring MVC, Hibernate |
 | Database | PostgreSQL |
 | Version Control** | Git & GitHub |
