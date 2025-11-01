@@ -41,7 +41,7 @@ The purpose of this repository is to:
 | IDE | Eclipse / IntelliJ IDEA |
 | Build Tool | Maven / Gradle |
 | Frameworks | Spring Boot, Spring MVC, Hibernate |
-| Database | MySQL / PostgreSQL |
+| Database | PostgreSQL |
 | Version Control** | Git & GitHub |
 | API Testing** | Postman |
 
