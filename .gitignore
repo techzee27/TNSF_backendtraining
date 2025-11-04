@@ -1,3 +1,4 @@
+# file which does not allow to get pushed to the git repository
 # Compiled class files
 *.class
 
@@ -16,3 +17,4 @@
 /bin/
 /build/
 /target/
+
