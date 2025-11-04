@@ -1,4 +1,4 @@
-# file which does not allow to get pushed to the git repository
+# file which does not allow other file from getting pushed to the git repository
 # Compiled class files
 *.class
 
