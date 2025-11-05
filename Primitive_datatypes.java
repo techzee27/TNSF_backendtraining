@@ -45,6 +45,7 @@ public class Primitive_datatypes {
     // 8. boolean: 1-bit (true or false)
     // Represents one bit of information (true/false)
     boolean h = true;
+    boolean i = false;
 
     public void print()
     {
@@ -57,7 +58,7 @@ public class Primitive_datatypes {
         System.out.println("5. float (32-bit floating-point): " + e);
         System.out.println("6. double (64-bit floating-point): " + f);
         System.out.println("7. char (16-bit Unicode character): " + g);
-        System.out.println("8. boolean (true/false): " + h);
+        System.out.println("8. boolean (true/false): " + h + " " + i);
     }
         
     
