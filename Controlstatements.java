@@ -94,9 +94,4 @@ public class Controlstatements {
         System.out.println("\nLoop ended.");
     }
 
-    public void lectures(String string, String string2, String string3) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'lectures'");
-    }
-
 }
